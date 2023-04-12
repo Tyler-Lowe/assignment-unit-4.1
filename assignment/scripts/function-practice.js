@@ -101,13 +101,14 @@ function sumAll( array ) {
   } return sum;
 }
 
-console.log(sumAll([1,2,3]));
 
+console.log(sumAll([1,2,3]));
+console.log(sumAll([1,2,3,5]));
 // 10. Function to return a new array of all positive (greater than zero)
 //     numbers contained in an input array. If there are no positive numbers
 //     return an empty array. Note: The input array should not change.
 
-
+ 
 
 // 11. Pick a problem from Edabit(https://edabit.com/) or 
 //     CodeWars(https://www.codewars.com/). Then describe it 
